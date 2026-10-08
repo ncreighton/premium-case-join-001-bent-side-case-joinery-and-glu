@@ -1,0 +1,2 @@
+# premium-case-join-001-bent-side-case-joinery-and-glu
+Stop guessing your clamp sequence on bent laminations — one wrong order and your case joint buckles. The Bent-Side Case Joinery and Glue-Up Sequence Log eliminates the chaos.  This Notion template turns your glue-up process into a repeatable, documented workflow. No more relying on memory or scribbled notes — every clamp order, pressure point, and
